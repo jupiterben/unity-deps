@@ -1,0 +1,6 @@
+/node_modules
+/pnpm-lock.yaml
+/prisma/migrations
+/prisma/dev.db
+/prisma/dev.db-shm
+/prisma/dev.db-wal
